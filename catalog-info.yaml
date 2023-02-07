@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "spaship-manger"
+  description: "this is manager"
+  annotations:
+    github.com/project-slug: side-projects-overkill/spaship-manger
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "guests"

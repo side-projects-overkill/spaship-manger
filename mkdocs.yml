@@ -1,0 +1,11 @@
+site_name: "spaship-manger"
+site_description: "this is manager"
+
+nav:
+  - Introduction: index.md
+  - FAQs: faqs.md
+  - Contribution: contribution.md
+  - Code Of Conduct: coc.md
+
+plugins:
+  - techdocs-core
